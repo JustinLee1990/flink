@@ -7,7 +7,7 @@
     <dependencySets>
         <dependencySet>
             <scope>runtime</scope>
-            <unpack>true</unpack>
+            <unpack>false</unpack>
             <unpackOptions>
                 <excludes>
                     <exclude>**/LICENSE*</exclude>
